@@ -1,0 +1,9 @@
+service\TypeTemplateService.class
+service\SellerService.class
+service\ItemCatService.class
+service\GoodsDescService.class
+service\SpecificationService.class
+service\GoodsService.class
+service\BrandService.class
+service\ItemService.class
+service\SpecificationOptionService.class
